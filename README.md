@@ -37,8 +37,7 @@ Guiá sobre Markdown <https://joedicastro.com/pages/markdown.html>
 
 # Links
 
-ONG Derechos Digitales <https://www.derechosdigitales.org> 
-Publicaciones ONG  Derechos Digitales <https://www.derechosdigitales.org/tipo_publicacion/publicaciones/> 
-
-Guiá sobre Markdown <https://joedicastro.com/pages/markdown.html> 
+ONG Derechos Digitales <https://www.derechosdigitales.org>  
+Publicaciones ONG  Derechos Digitales <https://www.derechosdigitales.org/tipo_publicacion/publicaciones/>  
+Guiá sobre Markdown <https://joedicastro.com/pages/markdown.html>  
 Como instalar Pandoc (en ingles): <https://pandoc.org/installing.html> 
