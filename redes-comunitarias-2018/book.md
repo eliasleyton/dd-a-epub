@@ -161,16 +161,16 @@ Habiendo reseñado sumariamente las experiencias y los aspectos regulatorios y 
 # Bibliografía
 
 AFONSO y VALENTE (2010). Telecommunications and spectrum regulation in Brazil: a report for the APC.  
-<https://espectro.org.>br/sites/default/files/downloads-legislacao/telecom_spectrum_regulation_brazil_nov2010.pdf
+<https://espectro.org.br/sites/default/files/downloads-legislacao/telecom_spectrum_regulation_brazil_nov2010.pdf>
 
 Alter Mundi (2015). Un proyecto argentino de inclusión digital premiado en América Latina desarrolla un hackaton en Córdoba. Disponible en Telám, en  
-<http://www.telam.com.>ar/notas/201509/118965-proyecto-argentino-inclusin-digital-premiado-amrica-latina-hackaton-crdoba.html
+<http://www.telam.com.ar/notas/201509/118965-proyecto-argentino-inclusin-digital-premiado-amrica-latina-hackaton-crdoba.html>
 
 Alter Mundi (2017) Redes MiniMaxi: Modelo de red libre comunitaria desarrollado por AlterMundi  
 <http://docs.altermundi.net/RedesMiniMaxi/>
 
 Alter Mundi y Libre Router (2018), Redes libres, comunitarias y descentralizadas. Disponible en:  
-<http://docs.altermundi.net/P%C3%A1ginaInicial?action=AttachFile&do=get&target=Redes+Libres,+Comunitarias+y>+Descentralizadas.pdf
+<http://docs.altermundi.net/P%C3%A1ginaInicial?action=AttachFile&do=get&target=Redes+Libres,+Comunitarias+y+Descentralizadas.pdf>
 
 Anatel, New Regulation of Restricted Radiation Equipment Approved (Nueva regulación de equipo de radiación restringida aprobada) (26 de junio de 2017),  
 <http://www.anatel.gov.br/institucional/component/content/article?id=1655>
@@ -180,10 +180,10 @@ ARGENTINA DIGITAL Ley 27.078. Tecnologías de la Información y las Comunicaci
 BALADRÓN, M. I. (2018). El Plan Nacional de Telecomunicaciones Argentina Conectada (2010-2015) en el marco de las políticas públicas de universalización del acceso a internet. (Tesis de posgrado). Universidad Nacional de Quilmes, Bernal, Argentina. Disponible en RIDAA Repositorio Institucional Digital de Acceso Abierto  
 <http://ridaa.unq.edu.ar/handle/20.500.11807/788>
 
-CARREÑO, I. (2018). Anatel propone una licencia única para servicios de telecomunicaciones. Mediatelecom, <https://www.mediatelecom.com.mx/2018/09/24/anatel-propone-una-licencia-unica-para-servicios-de-telecomunic>aciones/
+CARREÑO, I. (2018). Anatel propone una licencia única para servicios de telecomunicaciones. Mediatelecom, <https://www.mediatelecom.com.mx/2018/09/24/anatel-propone-una-licencia-unica-para-servicios-de-telecomunicaciones/>
 
 CASTAÑARES, I. (2017). Ellos ofrecen telefonía celular a 40 pesos y deberán pagar 1 mdp al año para ‘sobrevivir’.  
-<http://www.elfinanciero.com.>mx/empresas/ellos-ofrecen-telefonia-celular-a-40-pesos-y-deberan-pagar-mdp-al-ano-para-sobrevivir.html
+<http://www.elfinanciero.com.mx/empresas/ellos-ofrecen-telefonia-celular-a-40-pesos-y-deberan-pagar-mdp-al-ano-para-sobrevivir.html>
 
 CASTRO y DUARTE (2017). Rede Comunitária na cidade de Penalva (MA) conecta quilombolas. Nupef,  
 <https://nupef.org.br/rede-comunit%C3%A1ria-MA>
@@ -241,12 +241,13 @@ Redes AC (2018). Marco jurídico para las redes comunitarias en América Latin
 Resolución 4958/2018. RESOL-2018-4958-APN-ENACOM#MM. Ciudad de Buenos Aires, 15/08/2018.  
 <https://www.boletinoficial.gob.ar/#!DetalleNorma/190061/20180817>
 
-RHIZOMÁTICA (s/f). Modelo Jurídico TIC. Rhizomática Wiki. Disponible en:   <https://wiki.rhizomatica.org/index.php/Modelo_juridico_TIC#ESTRUCTURA_GENERAL_Y_MARCO_JUR.C3.8DDICO>
+RHIZOMÁTICA (s/f). Modelo Jurídico TIC. Rhizomática Wiki. Disponible en  
+<https://wiki.rhizomatica.org/index.php/Modelo_juridico_TIC#ESTRUCTURA_GENERAL_Y_MARCO_JUR.C3.8DDICO>
 
-SALAZAR, G. (2018), Telecomunicaciones Indígenas Comunitarias seguirá operando, pero aún hay camino por recorrer. Disponible en:  
+SALAZAR, G. (2018), Telecomunicaciones Indígenas Comunitarias seguirá operando, pero aún hay camino por recorrer. Disponible en  
 <https://es.globalvoices.org/2018/04/24/telecomunicaciones-indigenas-comunitarias-seguira-operando-pero-aun-hay-camino-por-recorrer/>
 
-Saldanha, M. (2018). Redes comunitárias, regulação e sustentabilidade. Espectro.org.br. Disponible en:  
+Saldanha, M. (2018). Redes comunitárias, regulação e sustentabilidade. Espectro.org.br. Disponible en  
 <https://espectro.org.br/pt-br/content/redes-comunit%C3%A1rias-regula%C3%A7%C3%A3o-e-sustentabilidade>
 
 SIOCHRÚ, S. (2017). Spectrum Innovation for Small-Scale Community-Owned Mobile Telephony: Strategic considerations. Institution: AMARC, WACC & FAO.
@@ -254,12 +255,12 @@ SIOCHRÚ, S. (2017). Spectrum Innovation for Small-Scale Community-Owned Mobile
 Sputnik (2017). Argentina elimina los impuestos a la importación de productos electrónicos.  
 <https://mundo.sputniknews.com/americalatina/201702211067106782-electronicos-argentina-impuestos/>
 
-Taborda, L. (2017). Despliegue de una Red Inalámbrica Libre Comunitaria: un ejercicio de soberanía digital en el barrio Villa del Río (Bogotá, Colombia). ISSN: 2313-7878 Vol. 4(2). Julio-diciembre: Hamut’ay 2017. Lima-Perú DOI: 10.21503/hamu.v4i2.1486. En:  
+Taborda, L. (2017). Despliegue de una Red Inalámbrica Libre Comunitaria: un ejercicio de soberanía digital en el barrio Villa del Río (Bogotá, Colombia). ISSN: 2313-7878 Vol. 4(2). Julio-diciembre: Hamut’ay 2017. Lima-Perú DOI: 10.21503/hamu.v4i2.1486. En  
 <https://espectro.org.br/sites/default/files/downloads-formacao/Red%20Inalambrica%20Villa%20del%20Rio%20Colombia%20-%2021-12-2017.pdf>
 
-TELCONOMIA, (2017). Argentina: resultados preliminares de la licitación 2.5 GHz. Disponible en:   <https://telconomia.com/argentina-resultados-preliminares-de-la-licitacion-2-5-ghz>
+TELCONOMIA, (2017). Argentina: resultados preliminares de la licitación 2.5 GHz. Disponible en   <https://telconomia.com/argentina-resultados-preliminares-de-la-licitacion-2-5-ghz>
 
-The Cook Report (2013). The Global Free Network Movement. The Right to Telecommunications Self-Determination with Examples from Spain, USA, Argentina and France. Volume XXII Nos. 8-9. November December 2013. ISSN 1071 6327. Disponible en:   
+The Cook Report (2013). The Global Free Network Movement. The Right to Telecommunications Self-Determination with Examples from Spain, USA, Argentina and France. Volume XXII Nos. 8-9. November December 2013. ISSN 1071 6327. Disponible en   
 <http://blog.altermundi.net/media/uploads/novdec_2013_crpp.pdf>
 
 TIC (s/f). Historia. Telecomunicaciones Indígenas Comunitarias, México.  
