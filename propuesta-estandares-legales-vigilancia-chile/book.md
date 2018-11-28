@@ -16,7 +16,7 @@ Septiembre de 2018.
 Esta publicación fue posible gracias al apoyo de Privacy International
 Derechos Digitales es una organización independiente y sin fines de lucro, fundada en el año 2005 y cuya misión es la defensa, promoción y desarrollo de los derechos fundamentales en el entorno digital, desde el interés público. Entre sus principales ejes de interés está la defensa y promoción de la libertad de expresión, el acceso a la cultura y la privacidad.
 
-# I. Introduccion
+# I. Introducción
 
 La regulación de la vigilancia estatal constituye uno de los desafíos más significativos planteados por la irrupción de las tecnologías de comunicación: aunque esperamos que el aparato estatal mantenga la seguridad, su capacidad de buscar esos fines infringiendo la privacidad crece sin una respuesta normativa.
 
