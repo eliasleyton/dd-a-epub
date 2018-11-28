@@ -7,11 +7,9 @@ cover-image: cover.png
 
 Este informe fue realizado por Derechos Digitales, con el apoyo de la Asociación para el progreso de las comunicaciones (APC)
 
-Texto por Marianne Díaz Hernández
-
-Revisado por Vladimir Garay
-
-Diseño y diagramación por Constanza Figueroa
+Texto por Marianne Díaz Hernández  
+Revisado por Vladimir Garay  
+Diseño y diagramación por Constanza Figueroa  
 
 Esta obra está disponible bajo licencia Creative Commons Attribution 4.0 Internacional (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/deed.es
 
@@ -162,78 +160,107 @@ Habiendo reseñado sumariamente las experiencias y los aspectos regulatorios y 
 
 # Bibliografía
 
-AFONSO y VALENTE (2010). Telecommunications and spectrum regulation in Brazil: a report for the APC. https://espectro.org.br/sites/default/files/downloads-legislacao/telecom_spectrum_regulation_brazil_nov2010.pdf
+AFONSO y VALENTE (2010). Telecommunications and spectrum regulation in Brazil: a report for the APC.  
+<https://espectro.org.>br/sites/default/files/downloads-legislacao/telecom_spectrum_regulation_brazil_nov2010.pdf
 
-Alter Mundi (2015). Un proyecto argentino de inclusión digital premiado en América Latina desarrolla un hackaton en Córdoba. Disponible en Telám, en http://www.telam.com.ar/notas/201509/118965-proyecto-argentino-inclusin-digital-premiado-amrica-latina-hackaton-crdoba.html
+Alter Mundi (2015). Un proyecto argentino de inclusión digital premiado en América Latina desarrolla un hackaton en Córdoba. Disponible en Telám, en  
+<http://www.telam.com.>ar/notas/201509/118965-proyecto-argentino-inclusin-digital-premiado-amrica-latina-hackaton-crdoba.html
 
-Alter Mundi (2017) Redes MiniMaxi: Modelo de red libre comunitaria desarrollado por AlterMundi http://docs.altermundi.net/RedesMiniMaxi/
+Alter Mundi (2017) Redes MiniMaxi: Modelo de red libre comunitaria desarrollado por AlterMundi  
+<http://docs.altermundi.net/RedesMiniMaxi/>
 
-Alter Mundi y Libre Router (2018), Redes libres, comunitarias y descentralizadas. Disponible en: http:// docs.altermundi.net/P%C3%A1ginaInicial?action=AttachFile&do=get&target=Redes+Libres,+Comunitarias+y+Descentralizadas.pdf
+Alter Mundi y Libre Router (2018), Redes libres, comunitarias y descentralizadas. Disponible en:  
+<http://docs.altermundi.net/P%C3%A1ginaInicial?action=AttachFile&do=get&target=Redes+Libres,+Comunitarias+y>+Descentralizadas.pdf
 
-Anatel, New Regulation of Restricted Radiation Equipment Approved (Nueva regulación de equipo de radiación restringida aprobada) (26 de junio de 2017),http://www.anatel.gov.br/institucional/component/ content/article?id=1655
+Anatel, New Regulation of Restricted Radiation Equipment Approved (Nueva regulación de equipo de radiación restringida aprobada) (26 de junio de 2017),  
+<http://www.anatel.gov.br/institucional/component/content/article?id=1655>
 
 ARGENTINA DIGITAL Ley 27.078. Tecnologías de la Información y las Comunicaciones. Sancionada: Diciembre 16 de 2014. Promulgada: Diciembre 18 de 2014
 
-BALADRÓN, M. I. (2018). El Plan Nacional de Telecomunicaciones Argentina Conectada (2010-2015) en el marco de las políticas públicas de universalización del acceso a internet. (Tesis de posgrado). Universidad Nacional de Quilmes, Bernal, Argentina. Disponible en RIDAA Repositorio Institucional Digital de Acceso Abierto http://ridaa.unq.edu.ar/handle/20.500.11807/788
+BALADRÓN, M. I. (2018). El Plan Nacional de Telecomunicaciones Argentina Conectada (2010-2015) en el marco de las políticas públicas de universalización del acceso a internet. (Tesis de posgrado). Universidad Nacional de Quilmes, Bernal, Argentina. Disponible en RIDAA Repositorio Institucional Digital de Acceso Abierto  
+<http://ridaa.unq.edu.ar/handle/20.500.11807/788>
 
-CARREÑO, I. (2018). Anatel propone una licencia única para servicios de telecomunicaciones. Mediatelecom, https://www.mediatelecom.com.mx/2018/09/24/anatel-propone-una-licencia-unica-para-servicios-de-telecomunicaciones/
+CARREÑO, I. (2018). Anatel propone una licencia única para servicios de telecomunicaciones. Mediatelecom, <https://www.mediatelecom.com.mx/2018/09/24/anatel-propone-una-licencia-unica-para-servicios-de-telecomunic>aciones/
 
-CASTAÑARES, I. (2017). Ellos ofrecen telefonía celular a 40 pesos y deberán pagar 1 mdp al año para ‘sobrevivir’. http://www.elfinanciero.com.mx/empresas/ellos-ofrecen-telefonia-celular-a-40-pesos-y-deberan-pagar-mdp-al-ano-para-sobrevivir.html
+CASTAÑARES, I. (2017). Ellos ofrecen telefonía celular a 40 pesos y deberán pagar 1 mdp al año para ‘sobrevivir’.  
+<http://www.elfinanciero.com.>mx/empresas/ellos-ofrecen-telefonia-celular-a-40-pesos-y-deberan-pagar-mdp-al-ano-para-sobrevivir.html
 
-CASTRO y DUARTE (2017). Rede Comunitária na cidade de Penalva (MA) conecta quilombolas. Nupef, https://nupef.org.br/rede-comunit%C3%A1ria-MA
+CASTRO y DUARTE (2017). Rede Comunitária na cidade de Penalva (MA) conecta quilombolas. Nupef,  
+<https://nupef.org.br/rede-comunit%C3%A1ria-MA>
 
-CEPAL, (2017). Estado de la banda ancha en América Latina y el Caribe. https://www.cepal.org/es/publicaciones/43365-estado-la-banda-ancha-america-latina-caribe-2017
+CEPAL, (2017). Estado de la banda ancha en América Latina y el Caribe.  
+<https://www.cepal.org/es/publicaciones/43365-estado-la-banda-ancha-america-latina-caribe-2017>
 
 Chamorro, L. (2018). Entrevista personal.
 
-CHAMORRO, L. y PIETROSEMOLI, E. (2008). Redes inalámbricas para el desarrollo en América Latina y el Caribe. Asociación para el Progreso de las Comunicaciones. Disponible en: https://www.apc.org/es/pubs/ redes-inal%C3%A1mbricas-para-el-desarrollo-en-am%C3%A9rica-latina-y-el-caribe
+CHAMORRO, L. y PIETROSEMOLI, E. (2008). Redes inalámbricas para el desarrollo en América Latina y el Caribe. Asociación para el Progreso de las Comunicaciones. Disponible en:  
+<https://www.apc.org/es/pubs/redes-inal%C3%A1mbricas-para-el-desarrollo-en-am%C3%A9rica-latina-y-el-caribe>
 
-COLNODO (2016). Expertos hablan sobre la creación de redes inalámbricas comunitarias en Colombia. https://colnodo.apc.org/es/novedades/expertos-hablan-sobre-la-creacion-de-redes-inalambricas-comunitarias-en-colombia
+COLNODO (2016). Expertos hablan sobre la creación de redes inalámbricas comunitarias en Colombia.  
+<https://colnodo.apc.org/es/novedades/expertos-hablan-sobre-la-creacion-de-redes-inalambricas-comunitarias-en-colombia>
 
-DALLOS JABBOUR, G. (2014). “El A b c de la selección objetiva en la asignación del espectro radioeléctrico
+DALLOS JABBOUR, G. (2014). “El A b c de la selección objetiva en la asignación del espectro radioeléctrico con pluralidad de interesados”. Procuraduría General de la Nación, Colombia.  
+<https://www.procuraduria.gov.co/portal/media/file/Cartilla%20ABC%202015(1).pdf>
 
-con pluralidad de interesados”. Procuraduría General de la Nación, Colombia. https://www.procuraduria. gov.co/portal/media/file/Cartilla%20ABC%202015(1).pdf
+ECHÁNIZ, N. (2015). Ley Argentina Digital, la perspectiva de AlterMundi.  
+<https://blog.altermundi.net/article/ley-argentina-digital-la-perspectiva-de-altermundi/>
 
-ECHÁNIZ, N. (2015). Ley Argentina Digital, la perspectiva de AlterMundi. https://blog.altermundi.net/ article/ley-argentina-digital-la-perspectiva-de-altermundi/
+EL TIEMPO (2018). La SIC solicita claridad al Mintic en proceso de subasta del espectro.  
+<https://www.eltiempo.com/tecnosfera/novedades-tecnologia/la-sic-dice-que-las-reglas-de-juego-para-subasta-el-espectro-no-son-claras-242582>
 
-EL TIEMPO (2018). La SIC solicita claridad al Mintic en proceso de subasta del espectro. https://www. eltiempo.com/tecnosfera/novedades-tecnologia/la-sic-dice-que-las-reglas-de-juego-para-subasta-el-espectro-no-son-claras-242582
+ENACOM (2018). Informe de Mercado – Acceso a Internet Año 2017. Recuperado el 15 de octubre de 2018 de   
+<https://www.enacom.gob.ar/informes-de-mercado_p2877>
 
-ENACOM (2018). Informe de Mercado – Acceso a Internet Año 2017. Recuperado el 15 de octubre de 2018 de https://www.enacom.gob.ar/informes-de -mercado_p2877
+GROSSMAN (2018). Anatel formaliza proposta para adotar licença única para serviços de telecom. Convergéncia Digital.  
+<http://convergenciadigital.uol.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site%2Cmobile%2525252Csite&infoid=49019&sid=8>
 
-GROSSMAN (2018). Anatel formaliza proposta para adotar licença única para serviços de telecom. Convergéncia Digital. http://convergenciadigital.uol.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site%2Cmobile%2525252Csite&infoid=49019&sid=8
+iProfesional (2018). Eliminan aranceles de importación a productos de informática y telecomunicaciones.  
+<https://www.iprofesional.com/economia/278810-proyecto-comercio-tasa-Eliminan-aranceles-de-importacion-a-productos-de-informatica-y-telecomunicaciones>
 
-iProfesional (2018). Eliminan aranceles de importación a productos de informática y telecomunicaciones. https://www.iprofesional.com/economia/278810-proyecto-comercio-tasa-Eliminan-aranceles-de-importacion-a-productos-de-informatica-y-telecomunicaciones
+ISOC (2018): Liberación de las redes comunitarias. Enfoques de licencias innovadoras.  
+<https://www.internetsociety.>org/wp-content/uploads/2018/05/Unleashing_Community_Networks_Innovative_Licensing_Approaches_2018-05-09_ES-LA.pdf
 
-ISOC (2018): Liberación de las redes comunitarias. Enfoques de licencias innovadoras. https://www.internetsociety.org/wp-content/uploads/2018/05/Unleashing_Community_Networks_Innovative_Licensing_Approaches_2018-05-09_ES-LA.pdf
+La Internet Libre (2013). Entrevista de Pedro Irigoyen a Nicolás Echániz sobre el trabajo de AlterMundi con redes libres comunitarias.  
+<http://blog.altermundi.net//media/uploads/hechoenbuenosairesagosto2013.pdf>
 
-La Internet Libre (2013). Entrevista de Pedro Irigoyen a Nicolás Echániz sobre el trabajo de AlterMundi con redes libres comunitarias. http://blog.altermundi.net//media/uploads/hechoenbuenosairesagosto2013. pdf
+LUJAMBIO, FASCENDINI y ROVERI (2011). Espectro abierto para el desarrollo. Estudio de caso: Argentina.  
+<https://www.apc.org/sites/default/files/Espectro%20Argentina_0_0.pdf>
 
-LUJAMBIO, FASCENDINI y ROVERI (2011). Espectro abierto para el desarrollo. Estudio de caso: Argentina. https://www.apc.org/sites/default/files/Espectro%20Argentina_0_0.pdf
+MOLINA, S. (2018). Las redes comunitarias de Internet crecen y se multiplican.  
+<https://kbz.red/las-redes-comunitarias-de-internet-crecen-y-se-multiplican-5a3fb122b970>
 
-MOLINA, S. (2018). Las redes comunitarias de Internet crecen y se multiplican. https://kbz.red/las-redes-comunitarias-de-internet-crecen-y-se-multiplican-5a3fb122b970
+NÁJERA, J. y SALAZAR, G. (2018). En riesgo la primera telefonía móvil creada para las comunidades indígenas en México. Global Voices. Disponible en  
+<https://es.globalvoices.org/2018/01/09/en-riesgo-la-existencia-y-viabilidad-de-la-primera-concesion-de-telefonia-movil-para-comunidades-indigenas-en-el-mundo/>
 
-NÁJERA, J. y SALAZAR, G. (2018). En riesgo la primera telefonía móvil creada para las comunidades indígenas en México. Global Voices. Disponible en https://es.globalvoices.org/2018/01/09/en-riesgo-la-existencia-y-viabilidad-de-la-primera-concesion-de-telefonia-movil-para-comunidades-indigenas-en-el-mundo/
+Recomendaciones de la I Cumbre de Redes Comunitarias, Argentina, 7-16/sept/2018.   
+<https://espectro.org.br/es/node/154>
 
-Recomendaciones de la I Cumbre de Redes Comunitarias, Argentina, 7-16/sept/2018. https://espectro.org.br/es/node/154
+Redes AC (2018). Marco jurídico para las redes comunitarias en América Latina. Disponible en  
+<https://www.redesac.org.mx/regulacion>
 
-Redes AC (2018). Marco jurídico para las redes comunitarias en América Latina. Disponible en https://www. redesac.org.mx/regulacion
+Resolución 4958/2018. RESOL-2018-4958-APN-ENACOM#MM. Ciudad de Buenos Aires, 15/08/2018.  
+<https://www.boletinoficial.gob.ar/#!DetalleNorma/190061/20180817>
 
-Resolución 4958/2018. RESOL-2018-4958-APN-ENACOM#MM. Ciudad de Buenos Aires, 15/08/2018. https://www.boletinoficial.gob.ar/#!DetalleNorma/190061/20180817
+RHIZOMÁTICA (s/f). Modelo Jurídico TIC. Rhizomática Wiki. Disponible en:   <https://wiki.rhizomatica.org/index.php/Modelo_juridico_TIC#ESTRUCTURA_GENERAL_Y_MARCO_JUR.C3.8DDICO>
 
-RHIZOMÁTICA (s/f). Modelo Jurídico TIC. Rhizomática Wiki. Disponible en: https://wiki.rhizomatica.org/index.php/Modelo_juridico_TIC#ESTRUCTURA_GENERAL_Y_MARCO_JUR.C3.8DDICO
+SALAZAR, G. (2018), Telecomunicaciones Indígenas Comunitarias seguirá operando, pero aún hay camino por recorrer. Disponible en:  
+<https://es.globalvoices.org/2018/04/24/telecomunicaciones-indigenas-comunitarias-seguira-operando-pero-aun-hay-camino-por-recorrer/>
 
-SALAZAR, G. (2018), Telecomunicaciones Indígenas Comunitarias seguirá operando, pero aún hay camino por recorrer. Disponible en: https://es.globalvoices.org/2018/04/24/telecomunicaciones-indigenas-comunitarias-seguira-operando-pero-aun-hay-camino-por-recorrer/
-
-Saldanha, M. (2018). Redes comunitárias, regulação e sustentabilidade. Espectro.org.br. Disponible en: https://espectro.org.br/pt-br/content/redes-comunit%C3%A1rias-regula%C3%A7%C3%A3o-e-sustentabilidade
+Saldanha, M. (2018). Redes comunitárias, regulação e sustentabilidade. Espectro.org.br. Disponible en:  
+<https://espectro.org.br/pt-br/content/redes-comunit%C3%A1rias-regula%C3%A7%C3%A3o-e-sustentabilidade>
 
 SIOCHRÚ, S. (2017). Spectrum Innovation for Small-Scale Community-Owned Mobile Telephony: Strategic considerations. Institution: AMARC, WACC & FAO.
 
-Sputnik (2017). Argentina elimina los impuestos a la importación de productos electrónicos. https://mundo.sputniknews.com/americalatina/201702211067106782-electronicos-argentina-impuestos/
+Sputnik (2017). Argentina elimina los impuestos a la importación de productos electrónicos.  
+<https://mundo.sputniknews.com/americalatina/201702211067106782-electronicos-argentina-impuestos/>
 
-Taborda, L. (2017). Despliegue de una Red Inalámbrica Libre Comunitaria: un ejercicio de soberanía digital en el barrio Villa del Río (Bogotá, Colombia). ISSN: 2313-7878 Vol. 4(2). Julio-diciembre: Hamut’ay 2017. Lima-Perú DOI: 10.21503/hamu.v4i2.1486. En: https://espectro.org.br/sites/default/files/downloads-formacao/Red%20Inalambrica%20Villa%20del%20Rio%20Colombia%20-%2021-12-2017.pdf
+Taborda, L. (2017). Despliegue de una Red Inalámbrica Libre Comunitaria: un ejercicio de soberanía digital en el barrio Villa del Río (Bogotá, Colombia). ISSN: 2313-7878 Vol. 4(2). Julio-diciembre: Hamut’ay 2017. Lima-Perú DOI: 10.21503/hamu.v4i2.1486. En:  
+<https://espectro.org.br/sites/default/files/downloads-formacao/Red%20Inalambrica%20Villa%20del%20Rio%20Colombia%20-%2021-12-2017.pdf>
 
-TELCONOMIA, (2017). Argentina: resultados preliminares de la licitación 2.5 GHz. Disponible en: https:// telconomia.com/argentina-resultados-preliminares-de-la-licitacion-2-5-ghz
+TELCONOMIA, (2017). Argentina: resultados preliminares de la licitación 2.5 GHz. Disponible en:   <https://telconomia.com/argentina-resultados-preliminares-de-la-licitacion-2-5-ghz>
 
-The Cook Report (2013). The Global Free Network Movement. The Right to Telecommunications Self-Determination with Examples from Spain, USA, Argentina and France. Volume XXII Nos. 8-9. November December 2013. ISSN 1071 6327. Disponible en: http://blog.altermundi.net/media/uploads/novdec_2013_crpp.pdf
+The Cook Report (2013). The Global Free Network Movement. The Right to Telecommunications Self-Determination with Examples from Spain, USA, Argentina and France. Volume XXII Nos. 8-9. November December 2013. ISSN 1071 6327. Disponible en:   
+<http://blog.altermundi.net/media/uploads/novdec_2013_crpp.pdf>
 
-TIC (s/f). Historia. Telecomunicaciones Indígenas Comunitarias, México. https://www.tic-ac.org/historia/
+TIC (s/f). Historia. Telecomunicaciones Indígenas Comunitarias, México.  
+<https://www.tic-ac.org/historia/>
