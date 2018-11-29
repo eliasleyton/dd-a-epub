@@ -83,7 +83,7 @@ política de privacidad y directrices sobre aplicación de la ley son:
 
 De otra parte, vale la pena señalar que un grupo de organizaciones internacionales de protección de derechos humanos han señalado que las empresas deben establecer e implementar condiciones de servicio que sean transparentes, claras y accesibles. Además, deben apegarse a las normas y principios internacionales de derechos humanos, incluyendo las condiciones en las que pueden generarse interferencias con el derecho a la privacidad de las personas usuarias.[^2]
 
-[^2]: CIDH. (2013, 31 de diciembre). Libertad de expresión e Internet. OEA/Ser.L/V/II CIDH/RELE/INF.11/13, párr. 112. . Disponible en https://bit.ly/1QiIOCC.
+[^2]: CIDH. (2013, 31 de diciembre). Libertad de expresión e Internet. OEA/Ser.L/V/II CIDH/RELE/INF.11/13, párr. 112. . Disponible en <https://bit.ly/1QiIOCC>.
 
 Es indispensable que tu emprendimiento digital cuente con políticas que cumplan estos protocolos a la hora de entregar información personal y datos personales a las autoridades.
 
@@ -95,7 +95,7 @@ La interceptación de las comunicaciones privadas de las personas tiene carác
 
 En ese sentido, se debe tener en cuenta que los metadatos deben seguir el mismo procedimiento aplicable a cualquier contenido en la comunicación. La sentencia de la Corte Interamericana de Derechos Humanos, en el caso Esher vs. Brasil, que los metadatos de las llamadas telefónicas forman parte de la comunicación, por lo tanto, deben ser tratados como tal.[^3]
 
-[^3]: Corte IDH (2009, 6 de julio de 2009). Caso Escher y Otros vs. Brasil, punto 114. Disponible en https://bit.ly/2sIY18p.
+[^3]: Corte IDH (2009, 6 de julio de 2009). Caso Escher y Otros vs. Brasil, punto 114. Disponible en <https://bit.ly/2sIY18p>.
 
 Es indispensable que las empresas tengan en cuenta que solo mediante una orden judicial puede facilitarse información para interceptaciones de comunicaciones por parte de las autoridades penales.
 
