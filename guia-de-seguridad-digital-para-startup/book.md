@@ -81,7 +81,6 @@ política de privacidad y directrices sobre aplicación de la ley son:
 * Riseup, servicio de correo
 * Twitter, red social
 
-
 De otra parte, vale la pena señalar que un grupo de organizaciones internacionales de protección de derechos humanos han señalado que las empresas deben establecer e implementar condiciones de servicio que sean transparentes, claras y accesibles. Además, deben apegarse a las normas y principios internacionales de derechos humanos, incluyendo las condiciones en las que pueden generarse interferencias con el derecho a la privacidad de las personas usuarias.[^2]
 
 [^2]: CIDH. (2013, 31 de diciembre). Libertad de expresión e Internet. OEA/Ser.L/V/II CIDH/RELE/INF.11/13, párr. 112. . Disponible en https://bit.ly/1QiIOCC.
@@ -111,13 +110,13 @@ Este derecho de notificación a las personas afectadas por medidas de vigilanci
 
 >Es imposible que una persona impugne efectivamente la interferencia de un gobierno en su vida privada si no sabe si ha sido víctima. En líneas generales, la falta de transparencia respecto a la aplicación de las leyes que rigen la vigilancia encubierta puede impedir el control democrático significativo de esas leyes.[^4]
 
-[^4]: Necesarios & Proporcionados. Principios Internacionales sobre la Aplicación de los Derechos Humanos a la Vigilancia de las Comunicaciones (2014, 10 de julio), p. 36. Disponible en https://bit.ly/1Uf4uMi.
+[^4]: Necesarios & Proporcionados. Principios Internacionales sobre la Aplicación de los Derechos Humanos a la Vigilancia de las Comunicaciones (2014, 10 de julio), p. 36. Disponible en <https://bit.ly/1Uf4uMi>.
 
 Por otro lado, la Relatoría especial sobre el derecho a la libertad de expresión de la Organización de las Naciones Unidas expresó su opinión al respecto:
 
 > Los individuos deben contar con el derecho a ser notificados que han sido sujetos de medidas de vigilancia de sus comunicaciones o que sus comunicaciones han sido accedidas por el Estado. Reconociendo que la notificación previa o concurrente puede poner en riesgo la efectividad de la vigilancia, los individuos deben ser notificados, en cualquier caso, una vez que la vigilancia ha sido completada y se cuenta con la posibilidad de buscar la reparación que proceda respecto del uso de medidas de vigilancia de las comunicaciones.[^5]
 
-[^5]: La Rue, F. (2013, 17 de abril). Informe del Relator especial sobre el derecho a la libertad de opinión y expresión. A/HRC/23/40, párr. 82. Disponible en https://bit.ly/2sId3LO.
+[^5]: La Rue, F. (2013, 17 de abril). Informe del Relator especial sobre el derecho a la libertad de opinión y expresión. A/HRC/23/40, párr. 82. Disponible en <https://bit.ly/2sId3LO>.
 
 Es decir, la notificación podría no poder llevarse a cabo de inmediato en tanto se podría frustrar el éxito de una investigación, pero debería al menos efectuarse cuando no esté en riesgo una investigación, no exista riesgo de fuga, de destrucción de evidencia o el conocimiento no genere un riesgo inminente de peligro a la vida o integridad de alguna persona.
 
@@ -136,7 +135,7 @@ Publicar informes de transparencia se ha convertido en una práctica común de
 
 En América Latina no es una práctica extendida, pero existen iniciativas de la sociedad civil latinoamericana que están impulsando a las compañías que operan en la región a trabajar en este tema.[^6]
 
-[^6]: http://bit.ly/2u1csqu, varias organizaciones de la sociedad civil latinoamericana han trabajado en versiones en Argentina, Chile, Colombia, México, Perú y Paraguay.
+[^6]: <http://bit.ly/2u1csqu>, varias organizaciones de la sociedad civil latinoamericana han trabajado en versiones en Argentina, Chile, Colombia, México, Perú y Paraguay.
 
 **¿Qué deben contener los informes de transparencia?**
 
@@ -190,7 +189,6 @@ La innovación abierta involucra la voluntad de reconocer que el conocimiento p
 Este estándar reconoce que en la actualidad existe una amplia distribución del conocimiento, principalmente debido a internet, por lo tanto, una empresa no puede confiar en sus propios activos y en las innovaciones que surgen solo de sus investigaciones internas. Además, debido a su pequeño tamaño y la falta de recursos, los emprendimientos digitales no suelen disponer de los recursos humanos y financieros necesarios para introducir una nueva tecnología o producto en el mercado. Por lo tanto, las fuentes externas son esenciales en el proceso de innovación de los emprendimientos digitales, ya sea para adquirir los recursos de los que carecen o acceder a activos complementarios.
 
 **¿Qué beneficios tiene para un emprendimiento digital adoptar una estrategia de innovación abierta?**
-
 
 Citando las palabras de Richard D. Barlett, cofundador de Loomio, una empresa que ayuda a las personas en los procesos colaborativos de toma de decisiones, “las ideas son baratas y un competidor motivado puede copiarte tanto si eres abierto como si eres cerrado. Lo que importa es la ejecución...”[^10] En este sentido, la innovación abierta permite establecer un modelo de negocio que anime a los emprendimientos a conectarse con fuentes externas para que pueda sacar provecho de las nuevas oportunidades de productos, atraer gente talentosa y colaborar con otros para crear innovaciones que por sí solas no podrían hacer.
 
