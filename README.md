@@ -41,3 +41,7 @@ ONG Derechos Digitales <https://www.derechosdigitales.org>
 Publicaciones ONG  Derechos Digitales <https://www.derechosdigitales.org/tipo_publicacion/publicaciones/>  
 Guiá sobre Markdown <https://joedicastro.com/pages/markdown.html>  
 Como instalar Pandoc (en ingles): <https://pandoc.org/installing.html> 
+
+# Solicitudes
+
+Para solicitar nuevos documentos escribir a `elias.leyton@pm.me`
