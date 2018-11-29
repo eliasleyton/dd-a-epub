@@ -1,7 +1,7 @@
 ---
-title: Marcos regulatorios para las redes comunitarias
-description: Marcos regulatorios para las redes comunitarias. Argentina, Brasil, Colombia y México.
-autor: Marianne Díaz Hernández
+title: 'Derechos humanos y seguridad digital: una pareja perfecta'
+description: Esta publicación es el tercer documento de la serie Análisis de políticas sobre ciberseguridad y derechos humanos en Latinoamérica, que desarrollan en conjunto las organizaciones TEDIC de Paraguay, la Asociación por los Derechos Civiles (ADC) de Argentina y la Fundación Karisma de Colombia. Ha sido posible gracias al apoyo y financiación de Privacy International y Ford Foundation.
+autor: Maricarmen Sequera, TEDIC, Leandro Ucciferri, ADC, Amalia Toledo, Fundación Karisma
 cover-image: cover.png
 ...
 
