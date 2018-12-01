@@ -2,6 +2,15 @@
 
 Repositorio que pretende recopilar y adaptar las publicaciones de ONG Derechos Digitales en formato amables con la lectura como ePub.
 
+
+# Publicaciones disponibles
+
+- [Guia de seguridad digital para Startups (2018)](https://github.com/eliasleyton/dd-a-epub/raw/master/guia-de-seguridad-digital-para-startup/book.epub)
+- [Redes Comunitarias (2018)](https://github.com/eliasleyton/dd-a-epub/raw/master/redes-comunitarias-2018/book.epub)
+- [Propuesta de estándares legales para la vigilancia en Chile (2018)](https://github.com/eliasleyton/dd-a-epub/raw/master/propuesta-estandares-legales-vigilancia-chile/book.epub)
+- [El cuepo como dato (2018)](https://github.com/eliasleyton/dd-a-epub/raw/master/el-cuerpo-como-dato-2018/book.epub)
+
+
 # Cómo contribuir
 
 Se utiliza Markdown para el formato base de los textos y `pandoc` para convertirlos a ePub.
