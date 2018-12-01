@@ -244,7 +244,7 @@ Mordini, E. (2008). Biometrics, human body, and medicine: A controversial histor
 
 Mordini, E., & Massari, S. (2008). Body, biometrics and identity. Bioethics, 22(9), 488–498. <https://doi.org/10.1111/j.1467-8519.2008.00700.x>
 
-Phillips, T. (2002). Imagined Communities and Self-identity: An Exploratory Quantitative Analysis. Sociology, 36(3), 597–617. <https://doi. org/10.1177/0038038502036003006>
+Phillips, T. (2002). Imagined Communities and Self-identity: An Exploratory Quantitative Analysis. Sociology, 36(3), 597–617. <https://doi.org/10.1177/0038038502036003006>
 
 Privacy International. (2013). Biometrics: friend or foe of privacy (Vol. 35).  
 
